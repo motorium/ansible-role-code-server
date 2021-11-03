@@ -12,3 +12,4 @@ code_server_port: 8080
 code_server_tls_cert_remote: no
 #code_server_tls_key: ""
 code_server_tls_key_remote: no
+#code_server_arch_variable: ""
